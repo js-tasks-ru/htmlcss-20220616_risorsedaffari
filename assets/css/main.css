@@ -16,8 +16,14 @@
   --error: var(--red);
   --success: var(--blue);
 
-  --primary: var(--blue);
-  --secondary: var(--purple);
+  --primary: #4263eb;
+  --primary-hover: #2342c0;
+
+  --secondary: #7048e8;
+  --secondary-hover: #5028c6;
+
+  --alternate: #acb5bd;
+  --alternate-hover: #212429;
 }
 
 * {
